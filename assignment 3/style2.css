@@ -1,0 +1,44 @@
+/* Anything between these two tags will be ignored by the browser */
+
+h1 {
+    color:rgb(147, 0, 0);
+}
+
+/*
+
+p {
+    color: #ff3366;
+    background-color: #00ff00;
+}
+*/
+
+.specialh2{
+    color: rgb(0, 0, 0);
+}
+
+.special {
+    color: rgb(128, 0, 0);
+    background-color: #f7f7f7f9;
+}
+
+.redbg {
+    background-color: rgb(220, 115, 115);
+}
+
+.spanstyle {
+    color: blue;
+}
+
+a {
+    color: #ff0000;
+}
+
+
+a:visited {
+  color: #00ff2a;
+}
+
+a:hover {
+  color: #fff700;
+  text-decoration: underline;
+}        
