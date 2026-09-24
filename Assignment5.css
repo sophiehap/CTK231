@@ -1,0 +1,90 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    background-color: white;
+    padding: 20px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-bottom: 5px solid black;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+body {
+    background-image:url(a5bg.png) ;
+}
+
+p {
+
+    background-color: white;
+    
+}
+
+div {
+    background-color: white;
+    padding: 20px;
+}
+
+nav li {
+  border: 1px solid #000000;
+  padding: 0px;
+  margin-bottom: 20px;
+ margin-right: 10px;
+  width: 150px;
+  background: #040962;
+  display: inline-block;
+  
+  
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+   padding: 10px;
+  
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+nav li a:hover {
+    background-color: rgb(20, 68, 241);
+   
+}
+
+p a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+
+
+.footer {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #040962;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    padding: 30px; 
+    font-size:15px;
+    color: white;
+    
+}
